@@ -11,3 +11,4 @@
 ||doubleclick.com
 ||yandex.com
 ||googlesyndication.com
+||sentry-cdn.com
