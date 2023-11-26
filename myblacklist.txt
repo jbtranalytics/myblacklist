@@ -13,5 +13,5 @@
 ||googlesyndication.com
 ||sentry-cdn.com
 ||optimizely.com
-odds.optimizely.com
-hipchat.slickdealscdn.com
+||odds.optimizely.com
+||hipchat.slickdealscdn.com
