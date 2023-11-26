@@ -1,0 +1,15 @@
+||3-d.ro^
+||mouseflow.com^
+||hotjar.io^
+||hotjar.com^
+||freshmarketer.com^
+||luckyorange.com^
+||bugsnag.com^
+||optimizely.com^
+||hpanalytics.net^
+||videoplyerhub.com^
+||google-analytics.com^
+||doubleclick.com^
+||yandex.com^
+||googlesyndication.com^
+||sentry-cdn.com^
