@@ -13,3 +13,6 @@
 ||yandex.com^
 ||googlesyndication.com^
 ||sentry-cdn.com^
+||odds.optimizely.com^
+||hipchat.slickdealscdn.com^
+||schemaapp.com^
