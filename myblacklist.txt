@@ -1,2 +1,13 @@
-0.0.0.0 yahoo.com
-0.0.0.0 www.yahoo.com
+||mouseflow.com
+||hotjar.io
+||hotjar.com
+||freshmarketer.com
+||luckyorange.com
+||bugsnag.com
+||optimizely.com
+||hpanalytics.net
+||videoplyerhub.com
+||google-analytics.com
+||doubleclick.com
+||yandex.com
+||googlesyndication.com
